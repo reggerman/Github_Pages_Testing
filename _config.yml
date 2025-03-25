@@ -1,0 +1,7 @@
+title: Pages
+theme: jekyll-theme-architect
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
